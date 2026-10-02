@@ -550,7 +550,7 @@
 
             <div>
                 <strong>Autor</strong>
-                <span>O teu nome</span>
+                <span>Tiago Cunha </span>
             </div>
 
             <div>
@@ -848,7 +848,7 @@
     </p>
 
     <p style="margin-top: 8px;">
-        Desenvolvido por <strong>O teu nome</strong> · 2026
+        Desenvolvido por <strong>Tiago Cunha</strong> · 2026
     </p>
 
 </footer>
